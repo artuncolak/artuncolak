@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I'am a computer engineering student who is passionate about full stack development (Spring Boot, ReactJS). Recently I started to write blog posts on my personal blog check it out link down below!
+I'am a computer engineering student who is passionate about full stack development (Spring Boot, ReactJS). Recently I started to write blog posts on my personal blog check it out from the link down below!
 
 ### Get in Touch 🌍
 
