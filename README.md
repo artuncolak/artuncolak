@@ -1,4 +1,4 @@
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=artuncolak&theme=dark&show_icons=true)]
+![Github Stats](https://github-readme-stats.vercel.app/api?username=artuncolak&theme=dark&show_icons=true)
 
 ## Hi there 👋
 
