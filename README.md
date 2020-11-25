@@ -13,6 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuncolak&layout=compact&theme=dark" alt="artuncolak" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artuncolak&show_icons=true&theme=dark" alt="artuncolak" /></p>
 
 <p align="center">
