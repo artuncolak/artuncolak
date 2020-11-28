@@ -13,10 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuncolak&layout=compact&theme=dark" alt="artuncolak" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artuncolak&show_icons=true&theme=dark" alt="artuncolak" /></p>
-
-<a href="/https://artuncolak.com/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://artuncolak.com/rss.xml" height="30" width="40" /></a>
 
 <p align="center">
 <a href="https://twitter.com/artuncolak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="artuncolak" height="30" width="30" /></a>
