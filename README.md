@@ -16,11 +16,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Node ve Express ile TypeScript Kurulumu](https://artuncolak.com/blog/node-ve-express-ile-typescript-kurulumu)
 - [NextJS Kullanarak Markdown Blog Nasıl Yapılır](https://artuncolak.com/blog/next-js-markdown-blog)
 - [Singleton Tasarım Deseni](https://artuncolak.com/blog/singleton-tasarim-deseni)
 - [Spring Security ve MySQL ile JWT Authentication](https://artuncolak.com/blog/spring-security-ve-mysql-ile-jwt-authentication)
 - [Ubuntu Üzerinde Nginx Server Kurulumu](https://artuncolak.com/blog/ubuntu-uzerinde-nginx-server-kurulumu)
-- [Hello World](https://artuncolak.com/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
