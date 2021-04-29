@@ -17,7 +17,6 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Node ve Express ile TypeScript Kurulumu](http://artuncolak.com/blog/node-ve-express-ile-typescript-kurulumu)
 - [NextJS Kullanarak Markdown Blog Nasıl Yapılır](http://artuncolak.com/blog/next-js-markdown-blog)
 - [Singleton Tasarım Deseni](http://artuncolak.com/blog/singleton-tasarim-deseni)
