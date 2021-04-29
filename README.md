@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Artun</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+<h1>Hi there 👋</h1>
+
+![doge](doge.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artuncolak" alt="artuncolak" /> </p>
 
@@ -9,13 +10,14 @@
 
 - 📫 How to reach me **artuncolak97@gmail.com**
 
-<p style="margin-bottom:10px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuncolak&layout=compact&theme=dark" alt="artuncolak" /></p>
+<p style="margin-top:15px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuncolak&layout=compact&theme=dark" alt="artuncolak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artuncolak&show_icons=true&theme=dark" alt="artuncolak" /></p>
+<p>&nbsp;<img align="center" style="margin-top:15px" src="https://github-readme-stats.vercel.app/api?username=artuncolak&show_icons=true&theme=dark" alt="artuncolak" /></p>
 
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Node ve Express ile TypeScript Kurulumu](http://artuncolak.com/blog/node-ve-express-ile-typescript-kurulumu)
 - [NextJS Kullanarak Markdown Blog Nasıl Yapılır](http://artuncolak.com/blog/next-js-markdown-blog)
 - [Singleton Tasarım Deseni](http://artuncolak.com/blog/singleton-tasarim-deseni)
