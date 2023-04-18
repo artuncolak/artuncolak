@@ -1,7 +1,5 @@
 <h1>Hi there 👋</h1>
 
-![doge](doge.jpg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artuncolak" alt="artuncolak" /> </p>
 
 - 📝 I regulary write articles on [https://artuncolak.com/blog](https://artuncolak.com/blog)
